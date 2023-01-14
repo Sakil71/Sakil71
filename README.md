@@ -1,6 +1,6 @@
 ![Frontend Web Developer](https://i.ibb.co/tcFZtwz/Whats-App-Image-2022-10-13-at-8-54-42-PM.jpg)
 
-<h1 align="center">Hi 👋, I'm Shakil Ahamed</h1>
+<h1 align="center">Hello 👋, I'm Shakil Ahamed</h1>
 <h3 align="center">Frontend Web Development</h3>
 <hr/>
 

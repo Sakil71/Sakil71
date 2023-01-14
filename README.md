@@ -7,7 +7,7 @@
 <hr/>
 
 
-##💫 About Me
+## 💫 About Me
 
 - 🌱 I’m currently learning **React Native**
 

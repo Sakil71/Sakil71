@@ -37,7 +37,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Sakil71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sakil71&theme=dark&hide_border=false)<br/>
-![GitHub metrics](https://metrics.lecoq.io/Sakil71)  
+![](https://metrics.lecoq.io/Sakil71)  
 
 <br/>
 

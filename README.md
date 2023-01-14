@@ -4,7 +4,7 @@
 
 <hr/> 
 
-Hello! I am Shakil Ahamed. I am twenty one years old. I am doing my B.Sc in Computer Science and Engineering at Dhaka International University right now and I specialize in Web Designing and Development. I am working as a full-stack developer for the past years, and I have extensive experience with both front-end and back-end development. I have a deep interest in Web Development and I made some full-stack projects using React, Node, and MongoDB.
+I am twenty one years old. I am doing my B.Sc in Computer Science and Engineering at Dhaka International University right now and I specialize in Web Designing and Development. I am working as a full-stack developer for the past years, and I have extensive experience with both front-end and back-end development. I have a deep interest in Web Development and I made some full-stack projects using React, Node, and MongoDB.
 
 ### Skills: React JS / JavaScript / HTML5 / CSS3 / Bootstrap / Tailwind / Firebase / MongoDb 
  

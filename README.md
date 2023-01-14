@@ -1,10 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakil71&label=Profile%20views&color=0e75b6&style=flat" alt="sakil71" /> </p>
+
 ![Frontend Web Developer](https://i.ibb.co/tcFZtwz/Whats-App-Image-2022-10-13-at-8-54-42-PM.jpg)
 
 <h1 align="center">Hello 👋, I'm Shakil Ahamed</h1>
 <h3 align="center">Frontend Web Development</h3>
 <hr/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakil71&label=Profile%20views&color=0e75b6&style=flat" alt="sakil71" /> </p>
 
 
 - 🌱 I’m currently learning **React Native**

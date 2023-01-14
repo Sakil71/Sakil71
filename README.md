@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shakil Ahamed</h1>
 <h3 align="center">Frontend Web Development</h3>
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakil71&label=Profile%20views&color=0e75b6&style=flat" alt="sakil71" /> </p>
 

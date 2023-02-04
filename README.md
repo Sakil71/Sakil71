@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Redux**
 
 - 👨‍💻 All of my projects are available at [https://shakil-ahamed-21.netlify.app/](https://shakil-ahamed-21.netlify.app/)
 

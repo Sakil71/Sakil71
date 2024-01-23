@@ -3,7 +3,7 @@
 ![Frontend Web Developer](https://i.ibb.co/tcFZtwz/Whats-App-Image-2022-10-13-at-8-54-42-PM.jpg)
 
 <h1 align="center">Hello, I'm Shakil Ahamed</h1>
-<h3 align="center">Fullstack Web Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 <hr/>
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Redux**
 
-- 👨‍💻 All of my projects are available at [https://shakil-ahamed.netlify.app/](https://shakil-ahamed-21.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shakil-ahamed.netlify.app/](https://sakil10.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 

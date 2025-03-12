@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://sakil10.netlify.app/](https://sakil10.netlify.app/)
 

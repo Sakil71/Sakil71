@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sakil10.netlify.app/](https://sakil10.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web & App Development**
 
-- 📫 How to reach me **sakilahmed7810@gmail.com**
+- 📫 How to reach me **web.shakil10@gmail.com**
 
 <br/>
 
